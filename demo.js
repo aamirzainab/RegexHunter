@@ -1,1 +1,1 @@
-var regexp = / (gli+)+t/;
+var regex = /A(B|C+)+D/
